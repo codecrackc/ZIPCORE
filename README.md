@@ -43,6 +43,6 @@
 
 ### Opción 3: Desde código
 ```bash
-git clone https://github.com/tuusuario/ZipCore
+git clone https://github.com/codecrackc/ZipCore
 cd ZipCore
-py ZipCore.py
+ZipCore.exe
